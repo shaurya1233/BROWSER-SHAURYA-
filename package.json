@@ -1,0 +1,14 @@
+{
+  "name": "shaurya-browser",
+  "version": "1.0.0",
+  "description": "Next-generation, premium, ultra-fast desktop web browser built by Shaurya Mittal",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Shaurya Mittal",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
